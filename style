@@ -1,0 +1,68 @@
+
+body {
+
+    background-image: url("Imagenfondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.ImagenTit h1 {
+
+    text-shadow: 2px 2px 4px #000000;
+
+    color: #fff;
+    text-align: center;
+}
+
+
+.Contenedor {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.Columna1{
+
+width: 30%;
+box-sizing: border-box;
+background-color: rgb(255, 255, 255);
+padding: 10px;
+margin: 0 5px;
+
+}
+
+.Columna2{
+
+    width: 30%;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 0 5px;
+
+}
+
+
+.Columna3{
+
+   
+width: 30%;
+box-sizing: border-box;
+background-color: rgb(255, 255, 255);
+padding: 10px;
+margin: 0 5px;
+
+    
+    }
+
+.Columna4{
+
+    width: 70%;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: px;
+    margin: 10 5px;
+
+}
