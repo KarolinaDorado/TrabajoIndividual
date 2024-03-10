@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descubre el Mundo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+
+    <img  style="height: 100px;" src="logo.jpg" alt="logo compañia">
+    <nav>
+        <a href="">Inicio</a>
+        <a href="">Nosotros</a>
+        <a href="">Contacto</a>
+    </nav>
+
+    <div class="ImagenTit">
+        <h1>¡Descubre el Mundo: Tu Aventura Comienza Aquí!</h1>
+    </div>
+
+
+</header>
+    
+<section> 
+<div class="Contenedor">
+
+    <div class="Columna1">
+
+            <h2>¿QUE ES?</h2>
+            <p>El turismo y los viajes son actividades que implican desplazarse de un lugar a otro con el propósito de recreación, ocio, negocios, cultura o cualquier otro motivo. El turismo implica visitar destinos fuera del lugar de residencia habitual, 
+                mientras que los viajes pueden incluir tanto viajes turísticos como desplazamientos por motivos laborales, educativos u otros.</p>
+            
+
+    </div>
+    <div class="Columna2">
+
+        <h2>¿PARA QUE SE UTILIZA?</h2>
+        <p>Recreación y ocio</p>
+        <p>Negocios</p>
+        <p>Educación</p>
+        <p>Turismo cultural</p>
+         <p>Turismo de naturaleza</p>
+</div>
+    
+    <div class="Columna3">
+
+    <h2>TIPOS</h2>
+    <p>Turismo doméstico</p>
+    <p>Turismo internacional</p>
+    <p>Turismo de negocios</p>
+    <p>Turismo de aventura</p>
+    <p>Turismo cultural</p>
+    <p>Turismo gastronómico</p>
+    <p>Ecoturismo</p>
+    <p>Turismo religioso</p>
+    <p>Turismo de salud y bienestar</p>
+    
+
+</div>
+<div class="Columna4">
+
+    <h2>¿LOS MAS IMPORTANTES?</h2>
+    <p>Los tipos de turismo más importantes pueden variar según la región y las preferencias individuales, 
+        pero el turismo cultural, el turismo de naturaleza, 
+        el turismo de negocios y el turismo de ocio suelen ser muy significativos en la mayoría de las regiones del mundo.</p>
+    <p></p>
+
+</div>
+</div>
+
+</section>
+
+
+
+   
+
+
+</body>
+</html>
