@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informacion Personal</title>
+    <link rel="stylesheet" href="styleIndex.css">
+</head>
+
+<body>
+    <section style="position: absolute;margin-left: 10%;">
+
+        <div class="ContenedorIndex">
+            <div class="Titulo">
+
+
+                <div class="ImagenTit">
+                    <h1>Diana Carolina Dorado Ruano </h1>
+                </div>
+                <div style="width: 100%;">
+                <h3>Estudiante Ingenieria de sistemas</h3>
+                </div>
+                <div>
+                <a href="https://www.uniajc.edu.co/" target="_blank ">UNIAJC</a><br>
+                <img style="height: 100px;" src="Fotoperfil.jpg" alt="FotoPerfil">
+            </div>
+            </div>
+            <div class="Resto">
+                <h4> Gustos</h4><br>
+                <ul>
+                    <li>Salir a Caminar</li>
+                    <li>Pasear</li>
+                    <li>Comer</li>
+                    <li>Practicar deportes</li>
+                    <li>Ir al gym</li>
+                </ul>
+                <a href="TrabajoPagina.html"> Trabajo Carolina</a>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>
