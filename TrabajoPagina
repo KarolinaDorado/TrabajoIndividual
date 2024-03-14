@@ -1,139 +1,432 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Descubre el Mundo</title>
-    <link rel="stylesheet" href="stylepag.css">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Descubre el Mundo</title>
+        <link rel="stylesheet" href="stylepag.css">
 
-</head>
+    </head>
 
-<body>
+    <body>
 
-    <header>
+        <header>
 
-        <img style="height: 100px; " src="logo.jpg" alt="logo compañia">
-        <nav>
-            <a href="">Inicio</a>
-            <a href="">Nosotros</a>
-            <a href="">Destinos</a>
-            <a href="">Reservas</a>
-            <a href="">Contacto</a>
+            <img style="height: 100px; " src="logo.jpg" alt="logo compañia">
+            <nav>
+                <a href>Inicio</a>
+                <a href>Nosotros</a>
+                <a href>Destinos</a>
+                <a href>Reservas</a>
+                <a href>Contacto</a>
 
+            </nav>
 
-        </nav>
-
-        <div class="ImagenTit">
-            <h1>¡Descubre el Mundo: Tu Aventura Comienza Aquí!</h1>
-        </div>
-
-        <h1>Buscar</h1>
-
-        <search>
-          <form>
-            <input name="Buscador" id="Busca" placeholder="Ingresa destino">
-          </form>
-        </search>
-        
-
-    </header>
-
-    <section>
-        <div class="Contenedor">
-
-            <div class="Columna1">
-
-                <h2>¿QUE ES?</h2>
-                <p>El turismo y los viajes son actividades que implican desplazarse de un lugar a otro con el propósito
-                    de recreación, ocio, negocios, cultura o cualquier otro motivo. El turismo implica visitar destinos
-                    fuera del lugar de residencia habitual,
-                    mientras que los viajes pueden incluir tanto viajes turísticos como desplazamientos por motivos
-                    laborales, educativos u otros.</p>
-
-
-            </div>
-            <div class="Columna2">
-
-                <h2>¿PARA QUE SE UTILIZA?</h2>
-                <p>Recreación y ocio</p>
-                <p>Negocios</p>
-                <p>Educación</p>
-                <p>Turismo cultural</p>
-                <p>Turismo de naturaleza</p>
+            <div class="ImagenTit">
+                <h1>¡Descubre el Mundo: Tu Aventura Comienza Aquí!</h1>
             </div>
 
-            <div class="Columna3">
+            <h1>Buscar</h1>
 
-                <h2>TIPOS</h2>
-                <p>Turismo doméstico</p>
-                <p>Turismo internacional</p>
-                <p>Turismo de negocios</p>
-                <p>Turismo de aventura</p>
-                <p>Turismo cultural</p>
-                <p>Turismo gastronómico</p>
-                <p>Ecoturismo</p>
-                <p>Turismo religioso</p>
-                <p>Turismo de salud y bienestar</p>
+            <search>
+                <form>
+                    <input name="Buscador" id="Busca"
+                        placeholder="Ingresa destino">
+                </form>
+            </search>
 
+        </header>
 
-            </div>
-            <div class="Columna4">
+        <section>
+            <div class="Contenedor">
 
-                <h2>¿LOS MAS IMPORTANTES?</h2>
-                <p>Los tipos de turismo más importantes pueden variar según la región y las preferencias individuales,
-                    pero el turismo cultural, el turismo de naturaleza,
-                    el turismo de negocios y el turismo de ocio suelen ser muy significativos en la mayoría de las
-                    regiones del mundo.</p>
-                <p></p>
+                <div class="Columna1">
 
-            </div>
+                    <h2>¿QUE ES?</h2>
+                    <p>El turismo y los viajes son actividades que implican
+                        desplazarse de un lugar a otro con el propósito
+                        de recreación, ocio, negocios, cultura o cualquier otro
+                        motivo. El turismo implica visitar destinos
+                        fuera del lugar de residencia habitual,
+                        mientras que los viajes pueden incluir tanto viajes
+                        turísticos como desplazamientos por motivos
+                        laborales, educativos u otros.</p>
 
-        </div>
+                </div>
+                <div class="Columna2">
 
-
-
-        <div>
-          <section>
-                <div class="ContenedorViajes">
-                    <div class="Nacionales">
-                       <h1> Destinos Nacionales</h1>
-
-                       <ul>
-                        <li>Cali</li>
-                        <li>Cartagena</li>
-                        <li>Amazonas</li>
-                        <li>San andres</li>
-                        <li>Coveñas</li>
-                  
-                    </ul>
-            
+                    <h2>¿PARA QUE SE UTILIZA?</h2>
+                    <p>Recreación y ocio</p>
+                    <p>Negocios</p>
+                    <p>Educación</p>
+                    <p>Turismo cultural</p>
+                    <p>Turismo de naturaleza</p>
                 </div>
 
-                <div class="Internacionales">
-                    <h1> Destinos Internacionales</h1>
+                <div class="Columna3">
 
-                    <ul>
-                     <li>EE.UU</li>
-                     <li>Canada</li>
-                     <li>Brasil</li>
-                     <li>Mexico</li>
-                     <li>Panama</li>
-               
-                 </ul>
-         
-             </div>
+                    <h2>TIPOS</h2>
+                    <p>Turismo doméstico</p>
+                    <p>Turismo internacional</p>
+                    <p>Turismo de negocios</p>
+                    <p>Turismo de aventura</p>
+                    <p>Turismo cultural</p>
+                    <p>Turismo gastronómico</p>
+                    <p>Ecoturismo</p>
+                    <p>Turismo religioso</p>
+                    <p>Turismo de salud y bienestar</p>
+
+                </div>
+                <div class="Columna4">
+
+                    <h2>¿LOS MAS IMPORTANTES?</h2>
+                    <p>Los tipos de turismo más importantes pueden variar según
+                        la región y las preferencias individuales,
+                        pero el turismo cultural, el turismo de naturaleza,
+                        el turismo de negocios y el turismo de ocio suelen ser
+                        muy significativos en la mayoría de las
+                        regiones del mundo.</p>
+
+                </div>
+
             </div>
 
-          </section>
+            <div>
+                <section>
+                    <div class="ContenedorViajes">
+                        <div class="Nacionales">
+                            <h1> Destinos Nacionales</h1>
+
+                            <ul>
+                                <li>Cali</li>
+                                <li>Cartagena</li>
+                                <li>Amazonas</li>
+                                <li>San andres</li>
+                                <li>Coveñas</li>
+
+                            </ul>
+
+                        </div>
+
+                        <div class="Internacionales">
+                            <h1> Destinos Internacionales</h1>
+
+                            <ul>
+                                <li>EE.UU</li>
+                                <li>Canada</li>
+                                <li>Brasil</li>
+                                <li>Mexico</li>
+                                <li>Panama</li>
+
+                            </ul>
+
+                        </div>
+                    </div>
+
+                </section>
+            </div>
+
+        </section>
+
+        <div>
+
         </div>
+        <section>
+            <div class="contenedordestinos1">
+                <div style="background-color:#ffffff;">
 
-    </section>
+                    <h1> Destinos Recomendados </h1>
+                    <div class="Destinosrec1">
+                        <h3>París (Francia) </h3>
+
+                        <p> Conocida como la "Ciudad del Amor",
+                            París es famosa por sus icónicos monumentos como la
+                            Torre
+                            Eiffel, el Louvre,
+                            la Catedral de Notre Dame y Montmartre. Además, la
+                            ciudad
+                            ofrece una rica historia,
+                            deliciosa gastronomía y encantadores paseos por el
+                            río
+                            Sena.</p>
+
+                    </div>
+
+                    <div class="Destinosrec2">
+
+                        <h3>Kioto (Japón)</h3>
+
+                        <p>Kioto es el corazón de la cultura tradicional
+                            japonesa,
+                            con sus templos budistas, santuarios sintoístas,
+                            jardines
+                            zen y geishas.
+                            Los visitantes pueden sumergirse en la historia y la
+                            belleza
+                            natural de esta antigua capital.</p>
+
+                    </div>
+                    <div class="Destinosrec3">
+
+                        <h3>Roma (Italia)</h3>
+                        <p>La "Ciudad Eterna" es un tesoro de arte,
+                            arquitectura y cultura. Los puntos destacados
+                            incluyen
+                            el
+                            Coliseo, el Vaticano, el Panteón y la Fontana di
+                            Trevi.
+                            Además, Roma es famosa por su deliciosa comida
+                            italiana
+                            y su
+                            ambiente animado.</p>
+
+                    </div>
+                    <div class="Destinosrec4">
+
+                        <h3>Ciudad del Cabo (Sudáfrica)</h3>
+                        <p>Ubicada entre montañas y el
+                            océano Atlántico, Ciudad del Cabo ofrece una
+                            combinación
+                            única de naturaleza y cultura. Los visitantes pueden
+                            disfrutar de impresionantes paisajes, como la
+                            Montaña de
+                            la
+                            Mesa y el Cabo de Buena Esperanza, así como
+                            experiencias
+                            culturales en barrios vibrantes como Bo-Kaap.
+                        </p>
+                    </div>
+                    <div class="Destinosrec5">
+
+                        <h3>Bali (Indonesia)</h3>
+                        <p>Conocida como la "Isla de los Dioses", Bali
+                            es un paraíso tropical que combina playas de arena
+                            blanca,
+                            exuberantes paisajes verdes, templos sagrados y una
+                            rica
+                            cultura. Los viajeros pueden practicar surf, hacer
+                            senderismo por arrozales, visitar templos
+                            ancestrales y
+                            disfrutar de la hospitalidad balinesa.
+
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+            <section>
+                <div class="contenedordestinos2">
+                    <div class="Destinosrec6">
+
+                        <h3>Nueva York (Estados Unidos)</h3>
+                        <p>
+                            La ciudad que nunca duerme
+                            ofrece una experiencia vibrante y diversa. Desde los
+                            rascacielos de Manhattan hasta los barrios bohemios
+                            de
+                            Brooklyn, Nueva York tiene algo para todos,
+                            incluyendo
+                            museos de clase mundial, teatros de Broadway,
+                            parques
+                            urbanos y una ecléctica escena gastronómica.</p>
+
+                    </div>
+                    <div class="Destinosrec7">
+
+                        <h3> Machu Picchu (Perú)</h3>
+                        <p>
+                            Esta antigua ciudad inca en lo alto de
+                            los Andes peruanos es uno de los destinos
+                            arqueológicos
+                            más
+                            impresionantes del mundo. Los visitantes pueden
+                            explorar
+                            las
+                            ruinas, hacer caminatas en los senderos circundantes
+                            y
+                            disfrutar de impresionantes vistas panorámicas de
+                            las
+                            montañas.</p>
+
+                    </div>
+                    <div class="Destinosrec8">
+
+                        <h3>Santorini (Grecia)</h3>
+
+                        <p>Con sus icónicas casas blancas y cúpulas
+                            azules situadas sobre acantilados volcánicos,
+                            Santorini
+                            es
+                            un destino de ensueño en el mar Egeo. Los visitantes
+                            pueden
+                            disfrutar de puestas de sol espectaculares, playas
+                            de
+                            arena
+                            negra y experiencias culinarias mediterráneas.</p>
+
+                    </div>
+                </div>
+            </section>
+            <div>
 
 
+            </div>
+            <section>
+                <div class="contenedoractividades1">
+                    <div class="Actividades1">
+                        <div style="background-color:#ffffff;">
+                            <h1>Hay una amplia gama de actividades que
+                                puedes
+                                hacer durante
+                                tus viajes, aqui tienes algunas
+                                opciones:</h1>
+                                <div class="Activ1">                         
+                                       <h3> Explorar monumentos y sitios históricos
+                            </h3>
+                            Visita lugares
+                            históricos como templos, castillos, ruinas
+                            antiguas,
+                            museos y sitios declarados Patrimonio de la
+                            Humanidad
+                            por la UNESCO para aprender sobre la
+                            historia y la
+                            cultura del lugar que estás visitando.
 
+                            <img src="fotosLista/1foto.jpg" alt>
+                        </div>
+                       
+                        <div class="Activ1">  
+                            <h3> Disfrutar de la naturaleza </h3>
+                            Realiza actividades al aire
+                            libre como senderismo, trekking, montañismo,
+                            paseos en
+                            bicicleta, observación de aves, buceo,
+                            snorkel o
+                            simplemente relájate en playas, parques
+                            naturales o
+                            jardines botánicos.
 
+                            <img src="fotosLista/2foto.jpg" alt>
+                        </div>
+                            <div class="Activ2">  
+                            <h3> Experimentar la gastronomía local </h3>
+                            Prueba la comida
+                            típica del lugar, visita mercados locales,
+                            participa en
+                            tours gastronómicos, asiste a clases de
+                            cocina y
+                            disfruta de restaurantes auténticos para
+                            conocer y
+                            saborear la cultura culinaria de la región.
 
-</body>
+                            <img src="fotosLista/3foto.jpg" alt>
+                        </div>
+                            <div class="Activ3">  
+                            <h3> Sumergirse en la cultura local </h3>
+
+                            Participa en festivales,
+                            eventos culturales, espectáculos de música y
+                            danza, o
+                            visita galerías de arte, teatros y
+                            exposiciones para
+                            experimentar la vida cotidiana y las
+                            tradiciones del
+                            lugar.
+
+                            <img src="fotosLista/4foto.jpg" alt>
+                            </div>
+                            <div class="Activ4">  
+                            <h3> Realizar actividades de aventura </h3>
+
+                            Si te gusta la
+                            adrenalina, prueba actividades como
+                            paracaidismo,
+                            rafting, surf, esquí, parapente, escalada en
+                            roca,
+                            paseos en globo aerostático o recorridos en
+                            tirolina.
+
+                            <img src="fotosLista/4foto.jpg" alt>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+
+                    <section>
+                        <div class="contenedoractividades2">
+                    <div class="Actividades2">
+                        <div class="Activ5">
+                        <h3> Relajarse y rejuvenecer: </h3>
+                        Dedica tiempo para desconectar
+                        y relajarte en spas, balnearios, centros de
+                        bienestar,
+                        yoga o meditación. Disfruta de tratamientos
+                        de masaje,
+                        terapias de spa y técnicas de relajación
+                        para recargar
+                        energías durante tus viajes.
+
+                        <img src="fotosLista/4foto.jpg" alt>
+                    </div>
+                    <div class="Activ6">
+                        <h3> Explorar la vida nocturna </h3>
+
+                        Experimenta la vida nocturna
+                        local, sal a cenar a restaurantes elegantes,
+                        visita
+                        bares y discotecas populares, asiste a
+                        conciertos en
+                        vivo o disfruta de espectáculos de música y
+                        entretenimiento.
+
+                        <img src="fotosLista/4foto.jpg" alt>
+                    </div>
+                    <div class="Activ7">
+                        <h3> Hacer turismo activo </h3>
+                        Realiza recorridos en bicicleta,
+                        caminatas urbanas, tours en segway o
+                        recorridos en barco
+                        para explorar la ciudad y sus alrededores de
+                        una manera
+                        activa y divertida.
+
+                        <img src="fotosLista/4foto.jpg" alt>
+                    </div>
+                    <div class="Activ8">
+                        <h3> Practicar deportes acuáticos </h3>
+
+                        Si estás cerca del mar,
+                        aprovecha para hacer actividades como surf,
+                        kayak,
+                        paddleboarding, jet ski, vela, windsurf o
+                        pesca
+                        deportiva para disfrutar del agua y el sol.
+
+                        <img src="fotosLista/4foto.jpg" alt>
+                    </div>
+                    <div class="Activ9">
+                        <h3> Participar en voluntariado o turismo
+                            responsable </h3>
+
+                        Contribuye al bienestar de las comunidades
+                        locales
+                        participando en proyectos de voluntariado,
+                        actividades
+                        de conservación ambiental o apoyando
+                        iniciativas de
+                        turismo sostenible que ayuden a proteger el
+                        medio
+                        ambiente y promover el desarrollo local.
+
+                        <img src="fotosLista/4foto.jpg" alt>
+                    </div>
+                    </div>
+</div>
+                </div>
+            </section>
+        </section>
+    </body>
 
 </html>
