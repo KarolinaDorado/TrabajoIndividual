@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ViajsesYTurismo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  </head>
+  <body background="fotos/imagenfondo.jpg">
+
+   
+
+    <div style="background-color: #FFD700;">
+        <center><h1>Viajes y Turismo</h1> </center>
+        
+    </div>
+   
+    <div style="background-color: 	#FFD700;">
+
+
+    </div>
+    
+    <div class="contenedor" style="background-color: #ADD8E6 ;">
+        <div class="unacolumna columna-central"><h2>¿Que tan importante es el turismo para colombia?</h2>En Colombia el turismo ha sido un sector de la economía muy importante porque reconocemos en él uno de los principales generadores de progreso, desarrollo y empleo. Esta industria ha venido creciendo sustancialmente, convirtiéndose en la tercera exportadora y captadora de divisas.</div>
+    </div>
+
+    
+    <div class="container" style="background-color: ;">
+        <div class="row">
+            
+          <div class="col">
+            <div style="background-color: #ADD8E6;" >
+            <h1>Aerolineas </h1>
+            <center>
+            <img src="fotos/avianca.gif" alt=""width="50%">
+        </center>
+            <p></p>
+            <center>
+            <img src="fotos/satena.gif" alt=""width="50%">
+        </center>
+            <p></p>
+            <center>
+            <img src="fotos/latam.gif" alt=""width="50%">
+            </center>
+            <p></p>
+            <center>
+            <img src="fotos/aercaribe.gif" alt=""width="50%">
+            </center>
+            <p></p>
+            <center>
+            <img src="fotos/ultra.gif" alt=""width="50%">
+        </center>
+            <p></p>
+            <center>
+            <img src="fotos/wingo.gif" alt=""width="50%">
+        </center>
+            <p></p>
+            <center>
+            <img src="fotos/clic.jpeg" alt=""width="50%">
+        </center>
+            </div>
+          </div>
+          <div class="col" style="background-color: 	#FFD700;">
+            <h1>Aerolineas y alguno de sus destinos</h1>
+
+            <table class="table table-dark table-hover">
+                <tr>
+                    <th><img src="fotos/avianca.gif" alt=""width="70%"></th>
+                    <th><img src="fotos/satena.gif" alt=""width="70%"> </th>
+                    <th><img src="fotos/latam.gif" alt=""width="70%"></th>
+                    <th><img src="fotos/clic.jpeg" alt="" width="70%"></th>
+                    <th><img src="fotos/ultra.gif" alt=""width="70%"></th>
+                    <th><img src="fotos/wingo.gif" alt=""width="70%"></th>
+                    <th><img src="fotos/aercaribe.gif" alt=""width="70%"></th>
+                </tr>
+                <tr>
+                    <td>Bogota </td>
+                    <td>Aguachica</td>
+                    <td>Bogota</td>
+                    <td>Bogota</td>
+                    <td>Bogota</td>
+                    <td>Armenia</td>
+                    <td>Bogota</td>
+
+                </tr>
+
+                <tr> 
+                    <td>Cali</td>
+                    <td>Apartado</td>
+                    <td>Cali</td>
+                    <td>Medellin</td>
+                    <td>Cali</td>
+                    <td>Bogota</td>
+                    <td>Cartagena</td>
+                </tr>
+
+                <tr>
+                    <td>Medellin</td>
+                    <td>Guapi</td>
+                    <td>Medellin</td>
+                    <td>Cali</td>
+                    <td>Cartagena</td>
+                    <td>Barranquilla</td>
+                    <td>Medellin</td>
+
+                </tr>
+
+                <tr>
+                    <td> Barranquilla</td>
+                    <td>Buenavenura</td>
+                    <td>San Andres</td>
+                    <td>Cartagena</td>
+                    <td>Cartagena</td>
+                    <td>Bucaramanga</td>
+                    <td>Bucaramanga</td>
+                </tr>
+
+                <tr>
+                    <td>Cartagena</td>
+                    <td>Tumaco</td>
+                    <td>Santa marta</td>
+                    <td>Guapi</td>
+                    <td>Santa Marta</td>
+                    <td>San Andres</td>
+                    <td>Cali</td>
+                    
+                  
+                </tr>
+
+                <tr>
+                    <td>Armenia</td>
+                    <td>Bucaramanga</td>
+                    <td>Pereira</td>
+                    <td>Pereira</td>
+                    <td>Monteria</td>
+                    <td></td>
+                    <td>Cúcuta</td>
+
+                </tr>
+
+                <tr>
+                    <td>Bucaramanga</td>
+                    <td>Arauca</td>
+                    <td>Cucuta </td>
+                    <td>Popayan</td>
+                    <td>Pasto</td>
+                    <td></td>
+                    <td>Yopal</td>
+                </tr>
+
+                <tr>
+                    <td>Ibague</td>
+                    <td>Bahia malaga </td>
+                    <td> Leticia</td>
+                    <td>Pasto</td>
+                    <td>Neiva</td>
+                    <td></td>
+                    <td>San Andres</td>
+
+                </tr>
+              
+
+            </table>
+
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/2yMhjHURW5A"></iframe>
+
+            <p></p>
+
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/-771INutx8w"></iframe>
+            
+
+          </div>
+          <div class="col" style="background-color: #ADD8E6;">
+            <h1>Paquetes de viajes</h1>
+            <img src="fotos/paquetes/santamarta.png" alt=""width="80%">
+            <img src="fotos/paquetes/sanAndres.png" alt=""width="80%">
+            <img src="fotos/paquetes/barranquilla.png" alt=""width="80%">
+            <img src="fotos/paquetes/cali.png" alt=""width="80%">
+            <img src="fotos/paquetes/leticiaa.png" alt=""width="80%">
+            <img src="fotos/paquetes/sanANdres (2).png" alt=""width="80%">
+            <p></p>
+            <a href="https://www.viajesfalabella.com.co/paquetes/?adjust_adgroup=155548810735&adjust_campaign=20736678407&adjust_t=12n9eoyi_12ky05s5&adjust_creative=679163725344&adjust_tracker_limit=1000000000&gad_source=1&gclid=Cj0KCQiArrCvBhCNARIsAOkAGcUuRAEiSCxK2JoOKKDPL5H6P-5aGwhh_jJeTURGMXze4qllgGULgCYaAmlXEALw_wcB&mktdata=accountid%3D3173430647%26pr%3DX%26cc%3DCO%26adjust_t%3D12n9eoyi_12ky05s5%26kw%3Dvacaciones%26c%3D679163725344%26mt%3Db%26n%3Dg%26p%3D%26ap%3D%26d%3Dc%26dm%3D%26targetid%3Dkwd-10141481%26campaignid%3D20736678407%26adgroupid%3D155548810735%26ExperimentId%3D%26locationid%3D1003668%26adjust_adgroup%3D155548810735%26adjust_campaign%3D20736678407%26adjust_creative%3D679163725344%26key%3DJU2BGE0FV1UKMCGIUTAEK8NSA8%26adjust_tracker_limit%3D1000000000%26gclid%3DCj0KCQiArrCvBhCNARIsAOkAGcUuRAEiSCxK2JoOKKDPL5H6P-5aGwhh_jJeTURGMXze4qllgGULgCYaAmlXEALw_wcB%26id%3D2024031016453512857710128898643%26trackeame_user_id%3D12810ABBC8AB170810179537374a43aa2-e9d1-4453-a84c-cf834b86a1e963011554">Dale clic para ver mas paquetes</a>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        
+      </div>
+
+
+      <div class="columnas">
+        <div style="background-color:#ffd900bb;">
+             <h1>Temporada de viajes </h1>
+            <h3>Temporada diciembre a marzo</h3>
+            <p>La temporada alta de Colombia tiene muchos días soleados; ideales para explorar los encantadores pueblos y ciudades del país, visitar desde el distrito cafetero o relajarse en la playa. La planificación temprana es crucial para diciembre y enero, donde se observa una gran afluencia de turistas nacionales y visitantes internacionales.</p>
+            <hr>
+            <p> </p>
+            <h3>Temporada abril a Junio</h3>
+            <p>El comienzo de la temporada de lluvias trae un clima ligeramente más húmedo en algunos lugares, pero la lluvia persistente es muy inusual. Debes planificar con anticipación si deseas visitar durante la Pascua, ya que este es un momento popular para el turismo regional.</p>
+            <hr>
+            <p></p>
+            <h3>Temporada de julio a agosto</h3>
+            <p>Una mini estación seca regresa al país durante esta temporada, trayendo condiciones maravillosas una vez más para visitar las ciudades culturales más destacadas de Colombia, sus bellos paisajes, selvas y playas. Algunas aerolíneas aumentarán sus tarifas de acuerdo con los períodos de vacaciones europeos y norteamericanos.</p>
+            <hr>
+            <p></p>
+            <h3>Temporada de septiembre a noviembre</h3>
+            <p>Esta es la temporada baja en Colombia, pero debido a la posición geográfica única de nuestro país, los visitantes de muchas de las principales atracciones no encontrarán su viaje obstaculizado por períodos prolongados de lluvia. Todavía se pueden disfrutar largos períodos de clima seco, y muchos aprovechan los viajes fuera de las horas pico para obtener una mayor variedad de hoteles y tarifas más bajas que en los meses siguientes.
+                A la final, todas vacaciones exitosas nacen de una buena planificación de viaje y estar seguro en que temporadas es mejor recorrer nuestra bella tierra.
+                </p> 
+            </div>
+        
+
+
+        <div style="background-color:#add8e6a8;"><h1>Cosas que puedes hacer mientras viajes</h1>
+            <ul>
+            <li>	Explora la ciudad o pueblo al que vas. Recorre los lugares de interés, visita museos y aprende sobre la cultura local.
+            </li>
+            <img src="fotosLista/1foto.jpg" alt="">
+
+        
+            <li>Prueba la comida local. Esta es una excelente manera de experimentar una nueva cultura.</li>
+            <img src="fotosLista/2foto.jpg" alt="">
+        
+            <li>Haz una excursión de un día a un lugar cercano. Esto puede ser una excelente manera de ver más del país o región que estás visitando.</li>
+            <img src="fotosLista/3foto.jpg" alt="">
+        
+            <li>
+                Asiste a un evento local. Esta es una excelente manera de mezclarse con los lugareños y experimentar la cultura local.
+            </li>
+            <img src="fotosLista/4foto.jpg" alt="">
+
+
+
+        </ul>
+    </div>
+    </div>
+   
+      
+      <style>
+      .columnas {
+        display: flex;
+      }
+      
+      .columnas div {
+        flex: 1;
+        padding: 20px;
+      }
+      </style>
+
+
+     
+        <div style="background-color: #ffd900c4;"><h1>Sitios y ciudades más turisticas</h1>
+            <h3>Caragena de indias</h3>
+            <img class="rounded-circle"   src="fotos/cartagena-g408d0fe18_1280.jpg" alt="" width="50%" height="10%">
+            <p>Cartagena es uno de los mejores lugares turísticos de Colombia y más visitados por nacionales e internacionales, es un lugar lleno de contrastes, donde el pasado y el presente se mezclan para crear una experiencia única para los visitantes. La ciudad amurallada, declarada Patrimonio de la Humanidad por la UNESCO, es el corazón histórico, con sus edificios coloniales y su arquitectura de estilo español que se conserva intacta desde el siglo XVII.</p>
+            <hr>
+            <h3>Parque Tayrona</h3>
+            <img  class="rounded-circle" src="fotos/Parque-Tayrona.png" alt=""width="50%" height="10%">
+            <p>Este parque nacional es otro de los lugares más lindos de colombia y uno de los sitios turìsticos más populares, con una impresionante costa del Caribe que ofrece aguas cristalinas. Además, el parque cuenta con una increíble diversidad de vida silvestre, como monos aulladores, osos hormigueros y jaguares. En el parque Tayrona los turistas pueden hacer caminatas para explorar la selva tropical y descubrir las antiguas ruinas de la cultura Tayrona. En el Parque Tayrona, la conexión con la naturaleza es innegable. Ya sea que decidas acampar bajo un dosel de estrellas brillantes, explorar los senderos selváticos o simplemente relajarte en una playa paradisíaca, te encontrarás inmerso en un entorno que te invita a reconectarte contigo mismo y con el mundo natural que te rodea.
+                </p>
+
+            <hr>
+            <h3>Santa Marta</h3>
+            <img class="rounded-circle" src="fotos/santamarta.jpeg" alt=""width="50%" height="10%">
+            <p>Otros de los lugares para visitar en Colombia es Santa Marta, la joya tropical enclavada en las costas colombianas, es un verdadero paraíso que cautiva a todos los sentidos. Con su incomparable belleza y encanto, esta ciudad teje una historia fascinante entre montañas majestuosas y el mar caribeño de aguas turquesas.
+                Sus playas de arena dorada, acariciadas por suaves olas, invitan a sumergirse en el abrazo cálido del océano, mientras las palmeras danzan al compás del viento, creando un telón de fondo perfecto para tus sueños de escape. Basta con cerrar los ojos y dejarte llevar por el aroma embriagador de las flores exóticas que embellecen sus calles.
+            </p>
+            <hr>
+            <h3>Caño cristales</h3>
+            <img class="rounded-circle" src="fotos/cañocristales.jpg" alt=""width="50%" height="10%">
+            <p>Uno de los 10 maravillosos lugares turísticos de Colombia versión natural es sin lugar a dudas Caño Cristales, uno de los destinos turísticos más espectaculares y exóticos de Colombia, conocido por sus increíbles ríos de colores. Esta reserva está ubicada en el Parque Nacional Natural de la Sierra de La Macarena, en el departamento de Meta, Caño Cristales es un verdadero tesoro natural que atrae a turistas de todo el mundo.
+                El río tiene una longitud de unos 100 kilómetros y cuenta con una gran variedad de plantas y animales endémicos. Sin embargo, lo que lo hace realmente especial son las algas y los musgos que crecen en el río, y tienen un cambio de color según la época del año. Desde julio hasta noviembre, las algas florecen y crean una paleta de colores vibrantes que incluye tonos de rojo, amarillo, verde y azul, creando un espectáculo natural impresionante.
+                </p>
+            <hr>
+            <h3>Medellin</h3>
+            <img class="rounded-circle" src="fotos/medellin.jpeg" alt=""width="50%" height="10%">
+            <p>¡Bienvenidos a Medellín! La ciudad de la eterna primavera, la capital antioqueña, y la ciudad de la innovación, es uno de los sitios más dinámicas y fascinantes del turismo en Colombia. Vamos a explorar algunas de las razones por las que Medellín es un lugar turistico de Colombia.
+
+                Sus calles y avenidas, animadas y bulliciosas, están impregnadas de una energía contagiosa que se desborda en cada rincón. Los edificios modernos y coloridos se entrelazan con el diseño colonial, creando un contraste encantador que refleja la historia y la evolución de la ciudad.
+                </p>
+
+            <hr>
+            <h3>Eje cafetero</h3>
+            <img class="rounded-circle" src="fotos/ejecafetero.png" alt=""width="50%" height="10%">
+            <p>El Eje Cafetero, una de las regiones más fascinantes de Colombia! Situado en el corazón del país, esta región es famosa por su delicioso café, hermosos paisajes naturales y auténtica cultura campesina.
+                El Eje Cafetero es el hogar de tres departamentos: Caldas, Quindío y Risaralda, cada uno con su propia identidad y atractivos turísticos. La región es el hogar de algunas de las fincas cafeteras más antiguas del país, donde podrás experimentar de primera mano el proceso de producción del café colombiano y disfrutar de una taza de café recién preparada
+                Además de la cultura del café, este paisaje cultural cafetero cuenta con una impresionante belleza natural, con montañas verdes, ríos cristalinos y parques nacionales que ofrecen una variedad de actividades, desde senderismo hasta avistamiento de aves y paseos en bicicleta.
+                </p>
+            <hr>
+            <h3>San Andres y Providencia</h3>
+            <img class="rounded-circle" src="fotos/providenciaa.jpeg" alt=""width="50%" height="10%">
+            <img class="rounded-circle" src="fotos/sanAndres.jpeg" alt=""width="50%" height="10%">
+            >
+            <p>San Andrés y Providencia son dos hermosas islas ubicadas en el Mar Caribe, cerca de la costa de Colombia. Ambas son destinos turísticos populares gracias a sus playas de arena blanca, aguas cristalinas y un clima cálido y agradable durante todo el año.
+                San Andrés es la isla más grande y conocida de las dos, y cuenta con una amplia variedad de actividades turísticas, desde el snorkel y el buceo en sus arrecifes de coral, hasta la exploración de la cultura y la historia de la isla en sus museos y sitios históricos.
+                
+                Por otro lado, Providencia es un destino menos conocido pero igualmente impresionante. Esta pequeña isla es un paraíso natural y es perfecta para aquellos que buscan unas vacaciones relajantes lejos del bullicio turístico. Providencia es conocida por sus playas de ensueño, sus aguas cristalinas y su exquisita gastronomía local.
+                
+                En ambas islas, se puede disfrutar de una gran variedad de actividades, como el kayak, la pesca, el windsurf y el senderismo, además de la posibilidad de relajarse en la playa y disfrutar de un buen cóctel mientras admiras el hermoso paisaje caribeño.
+                </p>
+            </div>
+
+
+
+
+        
+            <div class="container" style="background-color: #FFD700;">
+                <div class="row">
+                  <div class="col order-last">
+                    <form>
+                        <h3>Luego de crear tu usuario y contraseña, ingresa.</h3>
+                        <div class="mb-3">
+                          <label for="exampleInputEmail1" class="form-label">Correo electronico</label>
+                          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                          <div id="emailHelp" class="form-text">Nunca compartiremos tu informacion.</div>
+                        </div>
+                        <div class="mb-3">
+                          <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+                          <input type="password" class="form-control" id="exampleInputPassword1">
+                        </div>
+                        <div class="mb-3 form-check">
+                          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                          <label class="form-check-label" for="exampleCheck1">Echa un vistazo</label>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Enviar</button>
+                      </form>
+                  </div>
+                  <div class="col">
+                    Second in DOM, unordered
+                  </div>
+                  <div class="col order-first">
+                    <center> <h2>CRISTIAN DAVID SILVA GRUESO</h2>
+                        <img src="fotos/cristian_silva_foto.jpg" alt="" width="50%" height="25%" ></center>
+                  </div>
+                </div>
+              </div>
+            
+            
+
+        </div>
+
+     
+      
+
+
+      
+     
+
+
+
+    
+        
+    
+        
+    
+     
+   
+        
+    </body>
+   
+    </html>
