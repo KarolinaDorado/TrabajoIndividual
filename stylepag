@@ -1,96 +1,425 @@
-body {
+*{
+ margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;
+list-style: none;
+}
 
-    background-image: url("Imagenfondo.jpg");
+
+
+.encabezado {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7)),
+        url(Recursos/Imagenfondo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center bottom;
+    min-height: 70vh;
+    align-items: center;
+}
+
+#Titulo .Titulo h1 {
+    font-size: 45px;
+    text-shadow: 2px 2px 4px #000000;
+    color: #fff;
+    text-align: center;
+    padding-top: 25px;
+    margin: 0px;
+}
+
+
+.Info ul {
+    list-style: none;
+    padding: 0%;
+    text-align: center;
+}
+
+.Info ul li {
+    display: inline;
+}
+
+.Info ul li a {
+    font-size: 28px;
+    text-decoration: none;
+    padding: 8px 10px;
+    display: inline-block;
+}
+
+.Info ul li a:hover {
+    background-color: rgb(59, 255, 255);
+    color: black;
+
 
 }
 
-.ImagenTit h1 {
+.ContenedorViajes {
 
-    text-shadow: 2px 2px 4px #000000;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 
-    color: #fff;
+}
+
+.Nacionales {
+
+    width: 30%;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px 5px;
+
+}
+
+.Internacionales {
+
+    width: 30%;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px 5px;
+
+}
+
+.contenedordestinos1 {
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+}
+
+.Destinosrec1 {
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Destinosrec1 ::content {
+    text-align: center;
+}
+
+.Destinosrec2 {
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Destinosrec2 ::content {
+    text-align: center;
+}
+
+.Destinosrec3 {
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Destinosrec3 ::content {
+    text-align: center;
+}
+
+.Destinosrec4 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Destinosrec4 ::content {
+    text-align: center;
+}
+
+.Destinosrec5 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Destinosrec5 ::content {
     text-align: center;
 }
 
 
-.Contenedor {
+.contenedordestinos2 {
 
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
 
 }
 
-.Columna1{
+.Destinosrec6 {
 
-width: 30%;
-box-sizing: border-box;
-background-color: rgb(255, 255, 255);
-padding: 10px;
-margin: 10px 5px;
 
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
 }
 
-.Columna2{
+.Destinosrec6 ::content {
+    text-align: center;
+}
 
-    width: 30%;
-    box-sizing: border-box;
-    background-color: rgb(255, 255, 255);
-    padding: 10px;
-    margin: 10px 5px;
+.Destinosrec7 {
 
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Destinosrec7 ::content {
+    text-align: center;
+}
+
+.Destinosrec8 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Destinosrec8 ::content {
+    text-align: center;
+}
+
+.Destinosrec9 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Destinosrec9 ::content {
+    text-align: center;
 }
 
 
-.Columna3{
-
-   
-width: 30%;
-box-sizing: border-box;
-background-color: rgb(255, 255, 255);
-padding: 10px;
-margin: 10px 5px;
-
-    
-    }
-
-.Columna4{
-
-    width: 70%;
-    box-sizing: border-box;
-    background-color: rgb(255, 255, 255);
-    padding: 10px;
-    margin: 10px 5px;
-   
-
-}
-
-.ContenedorViajes{
+.contenedoractividades1 {
 
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
 
 }
 
-.Nacionales{
 
-    width: 30%;
-    box-sizing: border-box;
-    background-color: rgb(255, 255, 255);
+.Actividades1 ::content {
+    text-align: center;
+}
+
+.Activ1 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Activ1 ::content {
+    text-align: center;
+}
+
+.Activ2 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Activ2 ::content {
+    text-align: center;
+}
+
+.Activ3 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Activ3 ::content {
+    text-align: center;
+}
+
+.Activ4 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Activ4 ::content {
+    text-align: center;
+}
+
+.contenedoractividades2 {
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+}
+.Activ5 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Activ5 ::content {
+    text-align: center;
+}
+
+.Activ6 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Activ6 ::content {
+    text-align: center;
+}
+
+.Activ7 {
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Activ7 ::content {
+    text-align: center;
+}
+
+.Activ8 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Activ8 ::content {
+    text-align: center;
+}
+
+.Activ9 {
+
+
+    padding: 100px 0;
+    background-color: aliceblue;
+    position: relative;
+}
+
+.Activ9 ::content {
+    text-align: center;
+}
+
+
+.Destinosrec1 img {
+    width: 200px;
     padding: 10px;
-    margin: 10px 5px;
-    
-    }
-    
-    .Internacionales{
-    
-        width: 30%;
-        box-sizing: border-box;
-        background-color: rgb(255, 255, 255);
-        padding: 10px;
-        margin: 10px 5px;
-    
-    }
+}
+
+
+.Destinosrec2 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Destinosrec3 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Destinosrec4 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Destinosrec5 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Destinosrec6 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Destinosrec7 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Destinosrec8 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Destinosrec9 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Activ1 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Activ2 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Activ3 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Activ4 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Activ5 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Activ6 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Activ7 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Activ8 img {
+    width: 200px;
+    padding: 10px;
+}
+
+.Activ9 img {
+    width: 200px;
+    padding: 10px;
+}
